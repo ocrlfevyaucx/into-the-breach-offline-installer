@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,12 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | macOS 10.13 or more recent |
+| **Processor** | 1.7+ GHz or better | Intel 1.7+ GHz |
+| **Memory** | 1 GB RAM | 1 GB RAM |
+| **Graphics** | Must support OpenGL 2.1 or higher. Intel HD 3000 or bet… | OpenGL 2.1 support |
+| **Storage** | 400 MB available space | 400 MB available space |
+| **OS *** | Windows Vista/7/8/10 | Windows Vista/7/8/10 |
 
 ---
 
